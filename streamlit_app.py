@@ -1,7 +1,7 @@
 import streamlit as st
 from openai import OpenAI
 
-# Show title and description.
+# Show title and description.uiij
 st.title("💬 Chatbot")
 st.write(
     "This is a simple chatbot that uses OpenAI's GPT-3.5 model to generate responses. "
